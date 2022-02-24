@@ -1,6 +1,7 @@
 ## Introduction
 
-### Hi there 👋
+### Background
+My name is Slater Podgorny and in June of 2022 I will be graduating from the University of Denver with a degree in Business Information and Analytics and minors in Environmental Science and Leadership Studies.
 
 <!--
 **spodgorny9/spodgorny9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
