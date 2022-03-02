@@ -1,7 +1,7 @@
 ## Introduction
 
 ### Background
-My name is Slater Podgorny and in June of 2022 I will be graduating from the University of Denver with a degree in Business Information and Analytics and minors in Environmental Science and Leadership Studies.
+My name is Slater Podgorny and in June of 2022 I will be graduating from the University of Denver with a degree in Business Information and Analytics and minors in Environmental Science and Leadership Studies. I grew up in the small town of Paonia, Colorado and was appealed to the University of Denver because it would keep me close to the mountains. When I started at DU I was unsure about what I wanted to study but the reputation of the Daniels College of Business and the flexibility of many business degrees caught my attention.
 
 <!--
 **spodgorny9/spodgorny9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
