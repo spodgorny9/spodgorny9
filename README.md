@@ -13,7 +13,7 @@ After completeing my volunteer time at Asbury I reached a few conclusions. I am 
 
 <img src="https://user-images.githubusercontent.com/98546888/156275233-bb93ad57-c4d8-4e90-94e7-684664b46057.JPG" alt="drawing" width="200"/>
 
-https://github.com/spodgorny9/Class-Work
+[Class Work](https://github.com/spodgorny9/Class-Work)
 <!--
 **spodgorny9/spodgorny9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
