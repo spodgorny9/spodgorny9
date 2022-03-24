@@ -13,7 +13,6 @@ Intramural Sports
 DU Bike shop
 
 ## Technical Skills
-### Why BIA? 
 
 
 ## Cultural Learning 
