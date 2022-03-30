@@ -19,9 +19,9 @@ DU Bike shop
 Study Abroad
 Belize 
 Ireland
-![71493711-A545-4455-8716-1F4FA35B0FFD](https://user-images.githubusercontent.com/98546888/160854860-5e44680e-684b-4ab0-84d3-135b213bbedf.jpeg)![24A629A4-EEDC-4995-B8E0-DBBE72EB6A08](https://user-images.githubusercontent.com/98546888/160854921-c3a1d1ab-7117-4583-aaa8-a1b9916f49bf.jpeg)![71DC3A82-A3B1-4298-B36C-26D59A8D8EFF](https://user-images.githubusercontent.com/98546888/160854932-431b1dd4-f196-45b3-8829-a07480715417.jpeg)
 
-<img src = "https://user-images.githubusercontent.com/98546888/160854860-5e44680e-684b-4ab0-84d3-135b213bbedf.jpeg" alt = "drawing" width = "200"/><img src = "https://user-images.githubusercontent.com/98546888/160854921-c3a1d1ab-7117-4583-aaa8-a1b9916f49bf.jpeg" alt = "drawing" width = "200"/> <img src = "https://user-images.githubusercontent.com/98546888/160854932-431b1dd4-f196-45b3-8829-a07480715417.jpeg" alt = "drawing" width = "200"/> 
+
+<img src = "https://user-images.githubusercontent.com/98546888/160854860-5e44680e-684b-4ab0-84d3-135b213bbedf.jpeg" alt = "drawing" width = "300"/><img src = "https://user-images.githubusercontent.com/98546888/160854921-c3a1d1ab-7117-4583-aaa8-a1b9916f49bf.jpeg" alt = "drawing" width = "300"/> <img src = "https://user-images.githubusercontent.com/98546888/160854932-431b1dd4-f196-45b3-8829-a07480715417.jpeg" alt = "drawing" width = "300"/> 
 
 
 ## Ethics
