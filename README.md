@@ -21,7 +21,9 @@ Belize
 Ireland
 
 
-<img src = "https://user-images.githubusercontent.com/98546888/160854860-5e44680e-684b-4ab0-84d3-135b213bbedf.jpeg" alt = "drawing" width = "300"/><img src = "https://user-images.githubusercontent.com/98546888/160854921-c3a1d1ab-7117-4583-aaa8-a1b9916f49bf.jpeg" alt = "drawing" width = "300"/> <img src = "https://user-images.githubusercontent.com/98546888/160854932-431b1dd4-f196-45b3-8829-a07480715417.jpeg" alt = "drawing" width = "300"/> 
+<img align = "right" src = "https://user-images.githubusercontent.com/98546888/160854860-5e44680e-684b-4ab0-84d3-135b213bbedf.jpeg" alt = "drawing" width = "300"/>
+<img src = "https://user-images.githubusercontent.com/98546888/160854921-c3a1d1ab-7117-4583-aaa8-a1b9916f49bf.jpeg" alt = "drawing" width = "300"/> 
+<img src = "https://user-images.githubusercontent.com/98546888/160854932-431b1dd4-f196-45b3-8829-a07480715417.jpeg" alt = "drawing" width = "300"/> 
 
 
 ## Ethics
