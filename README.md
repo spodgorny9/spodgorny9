@@ -1,6 +1,7 @@
 ## Introduction
 
 My name is Slater Podgorny and in June of 2022 I will be graduating from the University of Denver with a degree in Business Information and Analytics and minors in Environmental Science and Leadership Studies. I grew up in the small town of Paonia, Colorado and was appealed to the University of Denver because it would keep me close to the mountains. When I started at DU I was unsure about what I wanted to study but the reputation of the Daniels College of Business and the flexibility of many business degrees caught my attention. The Business Analytics program caught my attention due to the wild abundance of data today and the belief that data can help to address a lot of the world's problems. In an ideal world I would like to find a job that would allow me to connect my Environmental Science minor and Analytics major. This portfolio is intended to serve as a reflection on my experiences at DU and also document some of the class work that I completed within the past four years. Enjoy! 
+![png-transparent-university-of-denver-denver-pioneers-women-s-basketball-logo-master-of-science-in-project-management-others](https://user-images.githubusercontent.com/98546888/161789747-e2eb81b6-2ad1-4842-b500-0fc8385dc527.png)
 
 ### Why BIA? 
 
@@ -19,7 +20,7 @@ Throughout my time at DU I was fortunate to have the opportunity to participate 
 ## Reflections
 
 ## What's next?
-<img src="https://user-images.githubusercontent.com/98546888/156275233-bb93ad57-c4d8-4e90-94e7-684664b46057.JPG" alt="drawing" width="200"/>
+
 
 [Class Work](https://github.com/spodgorny9/Class-Work)
 <!--
