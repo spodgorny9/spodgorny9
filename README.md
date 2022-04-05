@@ -23,7 +23,7 @@ Throughout my time at DU I was fortunate to have the opportunity to participate 
 ## What's next?
 
 
-[Class Work](https://github.com/spodgorny9/Class-Work)
+
 <!--
 **spodgorny9/spodgorny9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
