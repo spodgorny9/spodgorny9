@@ -25,7 +25,7 @@ The highlights of my time at DU are expanded in each of the links below.
 
 ## What's next?
 
-
+This fall I am planning on starting a one year masters program in Business information and Analytics to further develop my analytics skills and explore topics in greater depth that I have been introduced to in undergrad. After that I would like to find a job in the outdoor industry in whatever form possible. This could come in many different forms but it has become clear to me that I care about working in a field that aligns with my passions and living somewhere that is close to the things I love doing in the outdoors.
 
 <!--
 **spodgorny9/spodgorny9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
