@@ -7,7 +7,12 @@
 ### Why BIA? 
 
 When I started at DU I was unsure about what I wanted to study and a little overwhelmed by all the options. I found myself gravitating towards the business school because of its reputation and the flexibilty that many business majors provide for future careers. My initial intent was to study International Business but when I was introduced to the Analytics program I was captivated. The growing scale and importance of data in our world fascinated me and my appreciation for problem solving and cool graphics nudged me towards analytics. It also dawned on me that a data focused degree would allow me to pursue just about any career I could possibly imagine and would give me a solid foundation to address some of the world's most significant challenges. All of these factors combined to assure me that analytics would cater to my intellectual interests and allow me to pursue the lifestyle and career I desire.
+
 ### Minors
+
+I am currently pursing minors in Leadership Studies and Environmental Science. The leadership minor comes as a result of my participation in the Pioneer Leadership Program which is a living and learning community here at DU. I won't dive into this minor too much here because I expand on some of the details in the Community Engagement and Leadership section that is linked below.
+
+My Environmental Science minor came as a result of a DU's common core requirement of taking a science sequence and the only on that happened to seats available was Environmental Systems.
 
 The highlights of my time at DU are expanded in each of the links below. 
 
