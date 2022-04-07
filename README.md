@@ -12,7 +12,7 @@ When I started at DU I was unsure about what I wanted to study and a little over
 
 I am currently pursing minors in Leadership Studies and Environmental Science. The leadership minor comes as a result of my participation in the Pioneer Leadership Program which is a living and learning community here at DU. I won't dive into this minor too much here because I expand on some of the details in the Community Engagement and Leadership section that is linked below.
 
-My Environmental Science minor came as a result of a DU's common core requirement of taking a science sequence and the only on that happened to seats available was Environmental Systems.
+My Environmental Science minor came as a result of a DU's common core requirement of taking a science sequence and the only one that happened to have seats available was Environmental Systems. Thinking about it now, I am so glad all other courses was full because the E-Systems course gave me the opportunity to explore a field that I always loved but maybe did not know that I was passionate about. While most of my peers loathed nine AM lectures, I jumped at the opportunity to learn about Geology, Hydrology, and Weather. I had this massive appreciation for the fact that we could talk about something in a lecture then drive an hour west on the weekends and witness the very same things we had talked about. I have realized that the topics of Environmental Systems absolutely fascinating to me and I hope that I can find a career that will allow me to connect my analytics skills with my environmental science passions.
 
 The highlights of my time at DU are expanded in each of the links below. 
 
