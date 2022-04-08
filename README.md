@@ -23,6 +23,14 @@ The highlights of my time at DU are expanded in each of the links below.
 
 ## Reflections
 
+It is pretty wild to me that my time at DU is coming to an end. It feels like just the other day I was telling my freshman self that these next four years would fly by and I need to appreciate each moment as much as I can. Nevertheless, my theory has proven true and graduation is approaching at an alarmingly rapid pace. With that in mind, now is as good a time as any to reflect on my experience.
+
+I have three main takeaways from my time at DU and Daniels. The first is that data is absolutely everywhere. There were times when I questioned whether BIA was the right degree for me but I quickly realized that whatever my passions or interests may be in the future, data is likely to be involved and the skills I have developed over these past four years will prove to be valuable. My best evidence for this theory is that I have had professors that worked as consultants, educators, in renewable energy labs, and even for the Denver Nuggets. Data is everywhere. 
+
+My second takeaway relates to the future of business. Multiple times throughout this program I found myself questioning and sometimes even loathing the reputation of business in our world today. To me it feels very clear that businesses are largely to blame for some of the biggest issues facing the world today and to be associated with that industry doesn't quite sit right with me. That being said, business is also the most practical and relevant solution that I can think of and approaching the challenges facing the world is going to demand a business world in which corporations are willing to take responsibility for their actions and begin to prioritize the public good.
+
+Finally, my ultimate takeaway is an appreciation for the opportunity that college gave me to explore and understand who I am and who I want to be. I now feel as though I know more about myself than I did when I first walked across campus and I feel like I have a much clearer direction for where I would like to end up and the impact that I would like to have in the future. I really ready for whatever comes next.
+
 ## What's next?
 
 This fall I am planning on starting a one year masters program in Business information and Analytics to further develop my analytics skills and explore topics in greater depth that I have been introduced to in undergrad. After that I would like to find a job in the outdoor industry in whatever form possible. This could come in many different forms but it has become clear to me that I care about working in a field that aligns with my passions and living somewhere that is close to the things I love doing in the outdoors.
